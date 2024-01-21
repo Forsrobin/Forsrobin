@@ -13,7 +13,6 @@
   <a href="#about">About me</a> •
   <a href="#projects">My Projects</a> •
 </p>
-https://raw.githubusercontent.com/Forsrobin/Forsrobin/output/github-contribution-grid-snake-dark.svg
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Forsrobin/Forsrobin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Forsrobin/Forsrobin/output/github-contribution-grid-snake.svg">
