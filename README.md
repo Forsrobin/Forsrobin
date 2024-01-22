@@ -24,7 +24,7 @@
 
 ## About
 
-I am a versatile full-stack developer with a passion for technology and innovation. Currently studying civil engineering with a focus on computer security, I bring a unique blend of expertise to my projects. From designing robust software solutions to working with hardware and exploring cutting-edge technologies, I thrive in creating impactful solutions that bridge the gap between engineering and technology.
+I am a full-stack developer who is passionate about technology and innovation. While currently pursuing a degree in civil engineering with a specialization in computer security, I possess a distinctive skill set that advances my projects. My capabilities span from crafting resilient software solutions to collaborating with hardware and researching into the latest technologies.
 
 Below are some of the many technologies, professions and frameworks I have worked with
 
