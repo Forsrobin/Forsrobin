@@ -20,7 +20,7 @@
 </picture>
 
 
-![screenshot](https://cdn.discordapp.com/attachments/955945383740207104/1116122355207508018/image.png)
+![](https://cdn.discordapp.com/attachments/955945383740207104/1116122355207508018/image.png)
 
 ## About
 
