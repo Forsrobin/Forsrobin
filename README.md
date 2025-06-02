@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Full-Stack developer from Sweden currently studying computer security at BTH.</h4>
+<h4 align="center">Full-Stack developer from Sweden with a degree in computer security.</h4>
 
 <p align="center">
   <a href="#about">About me</a> •
