@@ -42,6 +42,7 @@ Below are some of the many technologies, professions and frameworks I have worke
 * React
 * Svelte
 * Tailwind
+* .Net
 * Typescript
 * Vue
 
