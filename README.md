@@ -28,8 +28,6 @@ I am a full-stack developer who is passionate about technology and innovation. W
 
 Below are some of the many technologies, professions and frameworks I have worked with
 
-* Backend
-* Frontend
 * DevOps
 * AWS
 * Azure
