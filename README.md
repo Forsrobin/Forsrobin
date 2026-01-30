@@ -1,52 +1,47 @@
-
 <h1 align="center">
   <br>
-  <a href="https://www.forsrobin.se/"><img src="https://www.forsrobin.se/logo.png" alt="Forsrobin" width="200"></a>
+  <a href="https://www.forsrobin.se/">
+    <img src="https://www.forsrobin.se/logo.png" alt="Forsrobin" width="200">
+  </a>
   <br>
   ForsRobin
   <br>
 </h1>
 
-<h4 align="center">Full-Stack developer from Sweden with a degree in computer security.</h4>
+<h4 align="center">
+  Web Developer with a focus on scalable applications, security aware architecture, and DevOps driven workflows.
+</h4>
 
 <p align="center">
   <a href="#about">About me</a> •
-  <a href="#projects">My Projects</a> •
+  <a href="#projects">Projects</a>
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Forsrobin/Forsrobin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Forsrobin/Forsrobin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Forsrobin/Forsrobin/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-![](https://cdn.discordapp.com/attachments/955945383740207104/1116122355207508018/image.png)
-
 ## About
 
-I am a full-stack developer who is passionate about technology and innovation. While currently pursuing a degree in civil engineering with a specialization in computer security, I possess a distinctive skill set that advances my projects. My capabilities span from crafting resilient software solutions to collaborating with hardware and researching into the latest technologies.
+I specialize in modern web development with an emphasis on performance, maintainability, and real world scalability.  
+My primary interests are cyber security and DevOps, with a strong focus on building secure systems and reliable deployment pipelines.
 
-Below are some of the many technologies, professions and frameworks I have worked with
+## Projects
 
-* DevOps
-* AWS
-* Azure
-* Networking
-* AWS
-* CPP
-* Docker
-* Nginx
-* Python
-* React
-* Svelte
-* Tailwind
-* .Net
-* Typescript
-* Vue
+* https://devshot.info  
+  Developer focused platform for sharing and discovering tools and projects.
 
----
+* https://retrophase.se  
+  Community driven retro technology and electronics platform.
 
-> [forsrobin.se](https://www.forsrobin.se/) &nbsp;&middot;&nbsp;
-> GitHub [@forsrobin](https://github.com/Forsrobin) &nbsp;&middot;&nbsp;
-> Twitter [@forsrobin_](https://twitter.com/Forsrobin_)
+* https://forsrobin.se  
+  Personal site and technical showcase.
 
+* https://opsynk.com/en  
+  Operations and synchronization focused web platform.
+
+> https://forsrobin.se  
+> GitHub https://github.com/Forsrobin  
+> Twitter https://twitter.com/Forsrobin_
